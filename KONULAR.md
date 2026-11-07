@@ -11,9 +11,10 @@ safran topraksız yetiştirme; marulu yıkamadan yemek.
 - 2026-11-04: Kratky yöntemi (gun1)
 - 2026-11-05: DWC – Derin Su Kültürü (gun2)
 - 2026-11-06: Yetiştirme ortamları – kaya yünü/cocopeat/perlit/hidroton (gun3/ortam); Gel-git – Ebb & Flow (gun3/gelgit); hikâye: kaya yünü bazalttan yapılır (gun3/hikaye)
+- 2026-11-07: Tohumdan fideye – küpte çimlendirme (gun4/cimlendirme); Depoda yosun/alg (gun4/yosun); hikâye: bazı tohumlar (marul) çimlenmek için ışık ister (gun4/hikaye)
 
 ## Sıradaki konu fikirleri
-tohumdan fideye süngerde çimlendirme; depoda yosun/alg; kışın topraksız sera;
+kışın topraksız sera;
 "topraksız ürün zararlı/tatsız mı?" yanlış bilinenler; damla sulama/drip sistemleri; çilek topraksız yetiştirme;
 domates topraksız; fesleğen budama; kök çürümesi (pythium) önleme; su kalitesi ve TDS; A+B gübre karıştırma sırası; hasat zamanı;
 akuaponik (balık+bitki); mikro filizler (microgreens); topraksız tarımda zararlılar; çözeltiyi ne sıklıkla değiştirmeli; LED mesafesi;
