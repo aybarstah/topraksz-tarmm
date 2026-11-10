@@ -14,10 +14,11 @@ safran topraksız yetiştirme; marulu yıkamadan yemek.
 - 2026-11-07: Tohumdan fideye – küpte çimlendirme (gun4/cimlendirme); Depoda yosun/alg (gun4/yosun); hikâye: bazı tohumlar (marul) çimlenmek için ışık ister (gun4/hikaye)
 - 2026-11-08: Mikro filizler – tepside yetiştirme (gun5/mikrofiliz); A+B gübre karıştırma sırası (gun5/abgubre); hikâye: mikro filizdeki beyaz tüyler küf mü, kök tüyü mü? (gun5/hikaye)
 - 2026-11-09: Kök çürümesi – Pythium önleme (gun6/kokcurumesi); Su kalitesi ve TDS (gun6/sukalitesi); hikâye: yapraklar yeşilken kök çürüyor olabilir (gun6/hikaye)
+- 2026-11-10: Serada tozlaşma – domates titreşimi, bombus arısı, şekilsiz çilek (gun7/tozlasma); Çözeltiyi ne sıklıkla değiştirmeli – EC'ye göre tamamlama, tam değişim (gun7/cozelti); hikâye: domates çiçeği sallanmadan polen vermez (gun7/hikaye)
 
 ## Sıradaki konu fikirleri
 kışın topraksız sera;
 "topraksız ürün zararlı/tatsız mı?" yanlış bilinenler; damla sulama/drip sistemleri; çilek topraksız yetiştirme;
 domates topraksız; fesleğen budama; hasat zamanı;
-akuaponik (balık+bitki); topraksız tarımda zararlılar; çözeltiyi ne sıklıkla değiştirmeli; LED mesafesi;
-fotoperiyot; Türkiye'de topraksız tarım teşvikleri (araştırarak); balkonda topraksız marul maliyeti; tozlaşma (seralarda çilek/domates).
+akuaponik (balık+bitki); topraksız tarımda zararlılar; LED mesafesi;
+fotoperiyot; Türkiye'de topraksız tarım teşvikleri (araştırarak); balkonda topraksız marul maliyeti.
