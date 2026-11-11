@@ -15,10 +15,11 @@ safran topraksız yetiştirme; marulu yıkamadan yemek.
 - 2026-11-08: Mikro filizler – tepside yetiştirme (gun5/mikrofiliz); A+B gübre karıştırma sırası (gun5/abgubre); hikâye: mikro filizdeki beyaz tüyler küf mü, kök tüyü mü? (gun5/hikaye)
 - 2026-11-09: Kök çürümesi – Pythium önleme (gun6/kokcurumesi); Su kalitesi ve TDS (gun6/sukalitesi); hikâye: yapraklar yeşilken kök çürüyor olabilir (gun6/hikaye)
 - 2026-11-10: Serada tozlaşma – domates titreşimi, bombus arısı, şekilsiz çilek (gun7/tozlasma); Çözeltiyi ne sıklıkla değiştirmeli – EC'ye göre tamamlama, tam değişim (gun7/cozelti); hikâye: domates çiçeği sallanmadan polen vermez (gun7/hikaye)
+- 2026-11-11: Fesleğen budama – yaprak çiftinin üstünden kesim, çiçek koparma (gun8/feslegen); Fotoperiyot – uzun gün/kısa gün/gün nötr, ışık süresi, zamanlayıcı (gun8/fotoperiyot); hikâye: fesleğeni tepeden kesersen 2 dal çıkar (gun8/hikaye)
 
 ## Sıradaki konu fikirleri
 kışın topraksız sera;
 "topraksız ürün zararlı/tatsız mı?" yanlış bilinenler; damla sulama/drip sistemleri; çilek topraksız yetiştirme;
-domates topraksız; fesleğen budama; hasat zamanı;
+domates topraksız; hasat zamanı;
 akuaponik (balık+bitki); topraksız tarımda zararlılar; LED mesafesi;
-fotoperiyot; Türkiye'de topraksız tarım teşvikleri (araştırarak); balkonda topraksız marul maliyeti.
+Türkiye'de topraksız tarım teşvikleri (araştırarak); balkonda topraksız marul maliyeti.
