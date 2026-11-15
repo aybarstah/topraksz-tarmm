@@ -19,8 +19,8 @@ safran topraksız yetiştirme; marulu yıkamadan yemek.
 - 2026-11-12: Akuaponik – balık+bitki, amonyak→nitrit→nitrat döngüsü, uygun balık/bitki, başlangıç hataları (gun9/akuaponik); Topraksız ürün hakkında yanlış bilinenler – GDO, kimyasal gübre, tat, besin değeri (gun9/yanlisbilinen); hikâye: balığın atığı bitkinin besini (gun9/hikaye)
 - 2026-11-13: Topraksız çilek – askılı oluk/NFT/kule, kısa gün vs gün nötr çeşit, taç gömme, stolon, kurşuni küf (gun10/cilek); Topraksız tarımda zararlılar – yaprak biti, beyaz sinek, kırmızı örümcek, thrips, mantar sineği, yapışkan tuzak, böcek tülü, biyolojik mücadele (gun10/zararli); hikâye: çileğin üstündeki noktalar tohum değil, ayrı meyve/aken (gun10/hikaye)
 - 2026-11-14: Damla sulama – damlatıcı, filtre, basınç ayarlı damlatıcı, açık/kapalı sistem, %20-30 drenaj, drenaj EC'si (gun11/damla); Kışın topraksız tarım – kısa gün/az ışık, soğuk çözelti, yoğuşma ve küf, serin seven yeşillikler, çözelti ısıtma 18-22°C, ek LED, yalıtım, kısa havalandırma (gun11/kis); hikâye: saksının altından su akması hata değil, drenaj tuzu yıkar (gun11/hikaye)
+- 2026-11-15: Topraksız domates – cocopeat/kaya yünü + damla, sırık vs bodur/çeri, koltuk alma, ipe sarma, alt yaprak temizliği, çiçek burnu çürüklüğü (düzensiz sulama/yüksek EC), meyve çatlaması (gun12/domates); LED mesafesi – mesafe=ışık şiddeti, tek doğru santim yok, çok yakın ağarma / çok uzak uzama, üretici PPFD tablosu, PAR metre, el testi LED'de yanıltır, kenar-merkez farkı (gun12/led); hikâye: domatesin dibi kararıyorsa sorun sulamada olabilir (gun12/hikaye)
 
 ## Sıradaki konu fikirleri
-domates topraksız; hasat zamanı;
-LED mesafesi;
+hasat zamanı;
 Türkiye'de topraksız tarım teşvikleri (araştırarak); balkonda topraksız marul maliyeti.
